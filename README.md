@@ -6,6 +6,15 @@ AI-powered stock research across 30 items in 6 categories, powered by Claude.
 
 ---
 
+## Screenshots
+
+![Landing](screenshot0.png)
+![Researching](screenshot1.png)
+![Results](screenshot2.png)
+![Category detail](screenshot3.png)
+
+---
+
 ## Two ways to use
 
 **Inside Claude.ai (no API key needed)**
